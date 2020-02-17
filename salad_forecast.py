@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 31 14:22:34 2020
 
 @author: gauravsharma
 """
