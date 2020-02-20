@@ -43,7 +43,6 @@ group_daywise_median = salad_sales.groupby(['month'], as_index=False).median()
 # sns.scatterplot(x= 'date', y= 'salescount', data = salad_sales)
 # plt.show()
 # plt.clf()
-# 
 # plt.figure()
 # sns.lineplot(x= 'date', y= 'salescount', data = salad_sales)
 # plt.show()
